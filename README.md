@@ -6,4 +6,4 @@ A榜：直接用best_data.csv跑模型即可
 B榜：先运行gen_feat.py=>然后在model文件夹里运行名代码即可,模型主要使用LightGBM.
 <br>
 note:记得先将原始数据文件放在data目录下。<br>
-贡献者:[chizhu](https://github.com/chizhu),[徐侃](xukan),[胡聪](evan806),[loct](loct)
+贡献者:[chizhu](https://github.com/chizhu) [徐侃](xukan) [胡聪](evan806)  [loct](loct)
